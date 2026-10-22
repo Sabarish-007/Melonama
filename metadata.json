@@ -1,0 +1,6 @@
+{
+  "name": "SmartMole",
+  "description": "AI-powered skin lesion analysis using Gemini 2.0 Flash vision capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["vision"]
+}
